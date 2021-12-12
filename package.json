@@ -1,0 +1,28 @@
+{
+  "name": "recap_node-express_week-4",
+  "version": "1.0.0",
+  "description": "[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6573843&assignment_repo_type=AssignmentRepo) <h1 align=\"center\">   Week 4 - Recap </h1>",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "MA",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://MAli-96: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@github.com/SchoolOfCode/w4_recap-tasks_node-express-MAli-96.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SchoolOfCode/w4_recap-tasks_node-express-MAli-96/issues"
+  },
+  "homepage": "https://github.com/SchoolOfCode/w4_recap-tasks_node-express-MAli-96#readme"
+}
